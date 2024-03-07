@@ -45,7 +45,7 @@ On a computational side, I have self learnt Julia as a side interest and hobby -
   <div class="container">
     <center><img src="/assets/jkb.jpeg" width = "300" height = "300"></center>
     <p style = "font-size: 13 px">
-    <i> Left: With Prof. Jayanta K. Bhattacharjee (centre) - one of the most impactful people I have met - and classmate, Nilanjan (on the right)</i>
+    <i> Left: With Prof. Jayanta K. Bhattacharjee (centre) - one of the most impactful people I have met - and my classmate, Nilanjan (on the right)</i>
     </p>     
     <div style="clear: both"></div> 
   </div>
