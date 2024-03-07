@@ -14,6 +14,9 @@ My C.V. is available
 <div class="row">
   <div class="container">
     <img class="left" src="/assets/WhatsApp Image 2024-03-07 at 09.58.37.jpeg" width = "300" height = "300">
+    <p style = "color:white">
+    HAHAHAHAHAHA <br>
+    </p>
     <span style="vertical-align: middle;">
     <i>A view of the sunrise from the CMI campus. </i>
     </span>     
