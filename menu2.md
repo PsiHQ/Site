@@ -1,8 +1,8 @@
-+++
-title = "C.V."
-hascode = true
-tags = ["syntax", "code", "image"]
-+++
+@def title = "C.V."
+@def hascode = true
+@def date = Date(2024, 3, 7)
+
+@def tags = ["syntax", "code", "image"]
 
 # My Resume
 
