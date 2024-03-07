@@ -27,7 +27,7 @@ At present, I am a 4th year student at the Indian Association for the Cultivatio
   <div class="container">
     <img class="left" src="/assets/iacs.jpeg" width = "300" height = "300">
     <span style="vertical-align: middle;">
-    <i>A view of the IACS campus - green and sunny. </i>
+    <i>A view of the IACS campus - green and sunny. Picture taken by my classmate, Debadrita Mukherjee. </i>
     </span>     
     <div style="clear: both"></div> 
   </div>
@@ -36,9 +36,9 @@ At present, I am a 4th year student at the Indian Association for the Cultivatio
 
 ## Research interests
 
-I aspire to be a theoretical physicist and, as of now, my research interests are not yet fixed on specific specialised topics. I tend to be more open to different areas and have had exposure to a couple different fields in my years at IACS - for example, nonlinear systems, neutrino physics, weak measurements and so on. For more information, do visit the [research](/menu1/) page.
+I aspire to be a theoretical physicist and, as of now, I am mostly into theoretical high energy physics, including both phenomenology and more fundamental aspects. I tend to be more open to different areas as well, however, and have had exposure to a couple different fields in my years at IACS - for example, nonlinear systems, weak measurements and so on. For more information, do visit the [research](/menu1/) page.
 
-On a computational side, I have self learnt Julia as a side interest and hobby - it has now become an integral part of my work, helping me with numerically solving complicated systems and suchlike. Interestingly, I built this webpage you are on right now with Julia as well! It's super interesting and super fun. 
+On a computational side, I have self learnt Julia as a side interest and hobby - it has now become an integral part of my work, helping me with numerically solving complicated systems and suchlike. Interestingly, I built this webpage with Julia as well! It's super interesting and super fun. 
 
 ~~~
 <div class="row">
