@@ -1,8 +1,8 @@
 <!--
 Add here global page variables to use throughout your website.
 -->
-@def website_title = "My Site"
-@def website_descr = "My site"
+@def website_title = "Shihabul Haque"
+# @def website_descr = "My site"
 # @def website_url   = "https://psihq.github.io/Site/"
 
 @def author = "shihabulhaque"
