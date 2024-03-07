@@ -1,4 +1,4 @@
-@def title = "My Site"
+@def title = "Shihabul Haque"
 @def tags = ["syntax", "code"]
 
 # Welcome to my page!
@@ -60,6 +60,6 @@ On a computational side, I have self learnt Julia as a side interest and hobby -
 </div>
 ~~~
 
-Visit the [research](/menu1/) page to check out my interests and past experiences or [this](/menu2/) page for a look at my resume. You can also contact me through the information provided [here](/menu3/). 
+Visit the [research](/menu1/) page to check out my interests and past experiences or [this](/menu2/) page for a look at my C.V. - you can also contact me through the information provided [here](/menu3/). 
 
 Thank you for visiting and have a nice day!
