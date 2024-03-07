@@ -4,7 +4,6 @@
 
 @def tags = ["syntax", "code", "image"]
 
-# My Resume
 
 My C.V. is available 
 ~~~
