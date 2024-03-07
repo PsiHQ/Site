@@ -1,10 +1,8 @@
-+++
-title = "Research"
-hascode = true
-date = Date(2019, 3, 22)
+@def title = "Research"
+@def hascode = true
+@def date = Date(2024, 3, 7)
 
-tags = ["syntax", "code"]
-+++
+@def tags = ["syntax", "code"]
 
 # Research interests
 
