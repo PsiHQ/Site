@@ -2,8 +2,8 @@
 Add here global page variables to use throughout your website.
 -->
 @def website_title = "My Site"
-@def website_descr = " "
-@def website_url   = "https://psihq.github.io/Site/"
+@def website_descr = "My site"
+# @def website_url   = "https://psihq.github.io/Site/"
 
 @def author = "shihabulhaque"
 @def mintoclevel = 2
@@ -16,9 +16,8 @@ Add here global page variables to use throughout your website.
 # these files might be copied and, if markdown, processed by Franklin which
 # you might not want. Indicate directories by ending the name with a `/`.
 # Base files such as LICENSE.md and README.md are ignored by default.
-ignore = ["node_modules/"]
 
-+++
+@def ignore = ["node_modules/", "franklin", "franklin.pub"]
 
 <!--
 Add here global latex commands to use throughout your pages.
