@@ -31,23 +31,13 @@ Initially, I worked on simple nonlinear systems to look at some interesting aspe
 
 I also worked on forced oscillators around resonance and learnt to use perturbative techniques to identify their resonant frequencies, applied certain techniques (like Krylov Bogolioubov averaging) to look at their solutions and determined approximate analytical solutions around resonance. 
 
-A report on the more interesting aspects of this work can be found 
-~~~
-<a href="_assets/Pr___2___Non_linear_oscillations_and_resonance__KVPY_.pdf" download="rep1"><i>here.</i></a>
-~~~
+A report on the more interesting aspects of this work can be found [here](https://drive.google.com/file/d/1s0cYTZZvwxv6wJApdP2BAUXGybRgws1c/view?usp=sharing) (most of the links here redirect to Google drive).
 
 ### Parametric resonances in more complicated systems
 
 In the latter part of 2022, I worked with my classmate, Nilanjan Sasmal, and Prof. Bhattacharjee on an elastic double pendulum - a 6 dimensional complicated system. We identified four resonance conditions using perturbative techniques (two of which, to the best of our knowledge, were not analysed in existing literature). We looked at the numerical solutions at resonance and briefly investigated the chaotic aspects of the system by computationally getting an idea of the Lyapunov exponent. Unfortunately, due to the system's complexity, deriving an approximate analytical behavior at resonance proved challenging. 
 
-I presented our work on the elastic double pendulum in the summer of 2023 at **NODYCON 2023**, held in Rome (unfortunately, I had to present remotely due to some personal constraints). The abstract that we submitted can be found 
-~~~
-<a href="_assets/Abstract_Revised_2_(accepted).pdf" download="abstract"><i>here.</i></a>
-~~~
-The presentation slides can be found 
-~~~
-<a href="_assets/Presentation_NODYCON2023_D.pptx" download="slides"><i>here.</i></a>
-~~~
+I presented our work on the elastic double pendulum in the summer of 2023 at **NODYCON 2023**, held in Rome (unfortunately, I had to present remotely due to some personal constraints). The abstract that we submitted can be found [here](https://nodycon.org/2023/papers/192/abstract_submissions/621/view_abstract) (link to official NODYCON abstract page). The presentation slides can be found [here](https://drive.google.com/file/d/1mbIAuIR7-caTrRZmpBVEsR98N7OOSJdQ/view?usp=sharing).
 
 ### Bounded solutions and forced oscillators
 
@@ -61,7 +51,7 @@ While working on the elastic double pendulum, Prof. Bhattacharjee and I became i
 </div>
 ~~~
 
-The preprint on this work can be found on the arXiv [here](https://arxiv.org/abs/2305.04125).
+The preprint on this work can be found on [arXiv:2305.04125](https://arxiv.org/abs/2305.04125).
 
 ## Weak measurements and quantum theory
 
@@ -76,22 +66,15 @@ My curiosity in quantum theory was piqued ever since I read Anil Ananthaswamy's 
 </div>
 ~~~
 
-I visited the _Chennai Mathematical Institute_ in the summer of 2023 to work on weak measurements in quantum theory under Prof. H. S. Mani. It was one of the most interesting summers I have spent - looking at basic measurement theory in quantum physics, the groundbreaking Albert-Aharonov-Vaidman paper and its later interpretations. I looked comprehensively into the conceptual idea of a weak measurement and its relation to interference and the quantum nature of matter and explicitly calculated the weak values for certain observables in simple systems - spin-1 particles, oscillator potentials and so on.
+I visited the _Chennai Mathematical Institute_ in the summer of 2023 to work on weak measurements in quantum theory under Prof. H. S. Mani. It was one of the most interesting summers I have spent - looking at basic measurement theory in quantum physics, the groundbreaking Albert-Aharonov-Vaidman paper and its later interpretations. I looked comprehensively into the conceptual idea of a weak measurement and its relation to interference and the quantum nature of matter and explicitly calculated the weak values for certain observables in simple systems - spin-1 particles, oscillator potentials and so on. A report covering certain aspects of this project is available [here](https://drive.google.com/file/d/1HJdwubqbF81JADzQ5HN3f-iTtnlY1klo/view?usp=sharing).
 
 ## Axions, dark matter and neutrinos 
 
-I have had a bit of exposure to particle physics quite early in my undergrad days - I wrote a term paper on the solar neutrino problem in my first year (available
-~~~
-<a href="_assets/The_Solar_Neutrino_Problem___A_review.pdf" download="rep3"><i>here</i></a>
-~~~ 
-if interested) and I got very interested in the idea of neutrino oscillations and mass mixing. I later spent the summer of 2022 reading up on some basic ideas related to this - Dirac equations, spinors, neutrino mass models - under the supervision of Prof. Amitava Raychaudhuri at the Raja Bazaar Science College in Kolkata, gaining more depth into my naive ideas of neutrinos. 
+I have had a bit of exposure to particle physics quite early in my undergrad days - I wrote a term paper on the solar neutrino problem in my first year (available [here](https://drive.google.com/file/d/1s0cYTZZvwxv6wJApdP2BAUXGybRgws1c/view?usp=sharing) if interested) and I got very interested in the idea of neutrino oscillations and mass mixing. I later spent the summer of 2022 reading up on some basic ideas related to this - Dirac equations, spinors, neutrino mass models - under the supervision of Prof. Amitava Raychaudhuri at the Raja Bazaar Science College in Kolkata, gaining more depth into my naive ideas of neutrinos. 
 
 My 2 years BS-MS project, under Prof. Sourov Roy at IACS, is on axions - super light, weakly interacting particles that are there but maybe not there. Axions are one of the hypothesised components of dark matter - the mysterious matter that is supposed to occupy the vast majority of our universe dictating its expansion and the formation of structures like galaxies and so on but which we haven't yet observed directly. There are, of course, a lot of indirect evidences for dark matter and axions and a lot of experiments suggested to detect the both of them but nothing yet definitive or concrete. 
 
-For now, my work, which started in August 2023, has involved reading up on existing literature on axions and related phenomena - like axion - photon coupling and transitions in the presence of magnetic fields, something I find fascinating even now and despite its obvious similarity to the neutrino oscillations I know of. For example, I have looked at recent papers in the field and replicated polarisation based studies - which basically means looking at how the properties of light from distant galaxies and astrophysical objects (like quasars) change when observed at earth and how particles like axions could be responsible for such changes - this has both observational aspects and theoretical and/or computational aspects (the latter of which is what I do). A report on this can be found
-~~~
-<a href="_assets/Rep1.pdf" download="rep4"><i>here.</i></a>
-~~~
+For now, my work, which started in August 2023, has involved reading up on existing literature on axions and related phenomena - like axion - photon coupling and transitions in the presence of magnetic fields, something I find fascinating even now and despite its obvious similarity to the neutrino oscillations I know of. For example, I have looked at recent papers in the field and replicated polarisation based studies - which basically means looking at how the properties of light from distant galaxies and astrophysical objects (like quasars) change when observed at earth and how particles like axions could be responsible for such changes - this has both observational aspects and theoretical and/or computational aspects (the latter of which is what I do). A report on this can be found [here](https://drive.google.com/file/d/1Mvn49nclGL092knNy2W4bLjMpHHaebw9/view?usp=sharing).
 
 For my second semester, I have started by looking at a closely related phenomenon - the mixing of gravitons and photons. This follows a similar kind of formalism and right now, I am trying to look at similar polarisation based aspects which might result from such an oscillation. 
 
