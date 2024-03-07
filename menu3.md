@@ -1,6 +1,4 @@
-+++
-title = "Contact me"
-+++
+@def title = "Contact me"
 
 # Contact me
 
