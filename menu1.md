@@ -26,7 +26,7 @@ My 2 years BS-MS project, under Prof. Sourov Roy at IACS (personal website [here
 <div class="row">
   <div class="container">
     <center><img src="/assets/axions.png" width = "250" height = "250"></center>
-    <p style = "font-size: 15px"><i> A comparison of how the axion intensity grows (if we start with only photons) in two models - the [conventional model](https://www.sciencedirect.com/science/article/abs/pii/S0370269302024486?via%3Dihub) and the [helical model](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.96.043519). Similar results can be obtained for gravitons too. 
+    <p style = "font-size: 15px"><i> A comparison of how the axion intensity grows (if we start with only photons) in two models - the <a href="https://www.sciencedirect.com/science/article/abs/pii/S0370269302024486?via%3Dihub">conventional model </a> and the <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.96.043519">helical model </a>. Similar results can be obtained for gravitons too. 
 </i></p>
 </div>
 ~~~
@@ -39,7 +39,7 @@ At IACS, I worked with Prof. Jayanta K. Bhattacharjee (who you can see on the ho
 
 ### Nonlinear systems
 
-Initially, I worked on simple nonlinear systems to look at some interesting aspects of their dynamics. As a fresh undergrad, this familiarised me with basic **_approximating techniques_**,**_differential equations_**, ideas like **_linearization_** and* **_fixed points_** and so on. 
+Initially, I worked on simple nonlinear systems to look at some interesting aspects of their dynamics. As a fresh undergrad, this familiarised me with basic **_approximating techniques_**, **_differential equations_**, ideas like **_linearization_** and **_fixed points_** and so on. 
 
 ~~~
 <div class="row">
@@ -50,7 +50,7 @@ Initially, I worked on simple nonlinear systems to look at some interesting aspe
 </div>
 ~~~
 
-I also worked on forced oscillators around resonance and learnt to use **perturbative techniques** to identify their resonant frequencies, applied certain techniques (like **Krylov Bogolioubov averaging****) to look at their solutions and determined approximate analytical solutions around resonance. 
+I also worked on forced oscillators around resonance and learnt to use **perturbative techniques** to identify their resonant frequencies, applied certain techniques (like **Krylov Bogolioubov averaging**) to look at their solutions and determined approximate analytical solutions around resonance. 
 
 A report on the more interesting aspects of this work can be found [here](https://drive.google.com/file/d/1p-KbWKduVuJ_uCbAs4RP9Ig1QYUXwiLs/view?usp=sharing) (most of the links here redirect to Google Drive).
 
@@ -87,7 +87,7 @@ My curiosity in quantum theory was piqued ever since I read Anil Ananthaswamy's 
 </div>
 ~~~
 
-I visited the _Chennai Mathematical Institute_ in the summer of 2023 to work on weak measurements in quantum theory under Prof. H. S. Mani. It was one of the most interesting summers I have spent - looking at basic **measurement theory** in quantum physics, the groundbreaking [**Albert-Aharonov-Vaidman paper**](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.60.1351) and its later interpretations. I looked comprehensively into the conceptual idea of a weak measurement and its relation to interference and the quantum nature of matter and explicitly calculated weak values for certain observables in simple systems - spin-1 particles, oscillator potentials and so on. A report covering certain aspects of this project is available [here](https://drive.google.com/file/d/1HJdwubqbF81JADzQ5HN3f-iTtnlY1klo/view?usp=sharing).
+I visited the _Chennai Mathematical Institute_ in the summer of 2023 to work on weak measurements in quantum theory under Prof. H. S. Mani. It was one of the most interesting summers I have spent - looking at basic **measurement theory** in quantum physics, the groundbreaking [_Albert-Aharonov-Vaidman_ paper](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.60.1351) and its later interpretations. I looked comprehensively into the conceptual idea of a weak measurement and its relation to interference and the quantum nature of matter and explicitly calculated weak values for certain observables in simple systems - spin-1 particles, oscillator potentials and so on. A report covering certain aspects of this project is available [here](https://drive.google.com/file/d/1HJdwubqbF81JADzQ5HN3f-iTtnlY1klo/view?usp=sharing).
 
 ## Gravitational formalism
 
