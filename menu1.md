@@ -6,7 +6,7 @@
 
 # Research interests
 
-As someone who likes a fair bit of maths, I am primarily interested in the theoretical side of things. My research interests and past exposure are diverse - however, I am more inclined towards **_particle physics_** and **_high-energy phenomena_** - the topic my BS-MS project is broadly based in.
+As someone who likes a fair bit of maths, I am primarily interested in the theoretical side of things. My research interests and past exposure are diverse - however, I am more inclined towards **_particle physics_** and **_high-energy phenomena_** - the topic my BS-MS project is broadly based on.
 
 At the same time, I have played around with other areas as well - **_nonlinear dynamics_**, **_quantum foundations_** and **_gravity_**. On this page, you will find a broad description of my interests and exposure. 
 
