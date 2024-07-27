@@ -11,16 +11,16 @@
     HAHAHAHAHAHA <br>
     </p>
     <span style="vertical-align: middle;">
-    <i>I am Shihabul Haque, a 4th year Integrated Bachelor's - Master's student at the Indian Association for the Cultivation of Science, Kolkata. I am a physics major and an aspiring theoretical physicist looking to get deeper into the mysteries of the universe. </i>
+    <i>I am Shihabul Haque, a 5th year Integrated Bachelor's - Master's student at the Indian Association for the Cultivation of Science, Kolkata. I am a physics major and an aspiring theoretical physicist. </i>
     </span>     
     <p> <i> Here I am - on the left - on the return flight to Kolkata after an interesting summer 2023 at the Chennai Mathematical Institute, Chennai. </i>
     <div style="clear: both"></div> 
   </div>
 </div>
 ~~~
-Welcome to my page - here, you will find snippets about me, my interests and work and more! Feel free to explore and do contact me if needed - feedback is appreciated!
+Welcome to my page - here, you will find snippets about me, my interests and work and more! Feel free to explore and contact me if needed - feedback is appreciated!
 
-At present, I am a 4th year student at the Indian Association for the Cultivation of Science, Kolkata (IACS). I had to mandatorily take physics, maths, chemistry, biology and computer science course for the first 3 semesters at IACS, after which I specialised to physics. This has enabled me to look at the world with a more wholistic attitude and make connections between different ideas even in unrelated contexts. 
+At present, I am a 5th year student at the Indian Association for the Cultivation of Science, Kolkata (IACS). I took physics, maths, chemistry, biology and computer science courses for the first 3 semesters at IACS, following which I chose physics as my major. This has enabled me to look at the world with a more holistic attitude and make connections between different ideas even in unrelated contexts. 
 
 ~~~
 <div class="row">
@@ -36,9 +36,9 @@ At present, I am a 4th year student at the Indian Association for the Cultivatio
 
 ## Research interests
 
-I aspire to be a theoretical physicist and, as of now, I am mostly into theoretical high energy physics, including both phenomenology and more fundamental aspects. I tend to be more open to different areas as well, however, and have had exposure to a couple different fields in my years at IACS - for example, nonlinear systems, weak measurements and so on. For more information, do visit the [research](/menu1/) page.
+I aspire to be a theoretical physicist and, as of now, I am mostly into **_theoretical high-energy physics_**, including both phenomenology and more fundamental aspects. I am open to different experiences as well and have had exposure to different fields at IACS - for example, nonlinear systems, weak measurements and so on. The [research](/menu1/) page elaborates on this further, so please visit it if interested.
 
-On a computational side, I have self learnt Julia as a side interest and hobby - it has now become an integral part of my work, helping me with numerically solving complicated systems and suchlike. Interestingly, I built this webpage with Julia as well! It's super interesting and super fun. 
+On a computational side, I have self-learned Julia as a side interest and hobby - it has now become an integral part of my work, helping me with numerically solving complicated systems and so on. Interestingly, I built this webpage with Julia as well! It's super interesting and super fun. 
 
 ~~~
 <div class="row">
