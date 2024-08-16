@@ -12,9 +12,9 @@ My C.V. is available
 ~~~
 <div class="row">
   <div class="container">
-    <img class="left" src="/assets/OsakaCastle1.jpeg" width = "300" height = "300">
+    <img class="centre" src="/assets/OsakaCastle1.jpeg" width = "280" height = "280">
     <span style="vertical-align: middle;">
-    <i> A shot of the Osaka Castle, Osaka City, Japan. Serene - almost out of a movie. </i>
+    <i> A shot of the Osaka Castle, Osaka City, Japan. </i>
     </span>     
     <div style="clear: both"></div> 
   </div>
