@@ -6,17 +6,30 @@
 
 # Research interests
 
-As someone who likes a fair bit of maths, I am primarily interested in the theoretical side of things. My research interests and past exposure are diverse - however, I am more inclined towards **_particle physics_** and **_high-energy phenomena_** - the topic my BS-MS project is broadly based on.
+As someone who likes a fair bit of maths, I am primarily interested in the theoretical side of things. My research interests and past exposure are diverse - however, I am more inclined towards **_particle physics_** and **_high-energy phenomena_** - the topic my BS-MS project is broadly based on. I work on _axion/photon mixing_ and some related phenomena for my BS-MS project but, aside from that, I also worked a bit on some aspects of the _two Higgs doublet model_ and _electroweak phase transition_ during my stay at Osaka University.
 
-At the same time, I have played around with other areas as well - **_nonlinear dynamics_**, **_quantum foundations_** and **_gravity_**. On this page, you will find a broad description of my interests and exposure. 
+At the same time, I have played around with other areas as well - **_nonlinear dynamics_**, **_quantum physics_** and **_gravity_**. On this page, you will find a broad description of my interests and exposure. 
 
 \toc
 
-## Mixing in ALPs and neutrinos
+## Neutrinos, Higgs and ALPs
 
 ### The solar neutrino problem and more
 
 I had a bit of exposure to particle physics in my undergrad days - I wrote a term paper on the **solar neutrino problem** in my first year (available [here](https://drive.google.com/file/d/1s0cYTZZvwxv6wJApdP2BAUXGybRgws1c/view?usp=sharing) if interested) and I got interested in the idea of neutrino oscillations and mass mixing. I later spent the summer of 2022 on some related but basic topics - Dirac equations, spinors, neutrino mass models - under the supervision of Prof. Amitava Raychaudhuri ([INSPIRE](https://inspirehep.net/authors/992176?ui-citation-summary=true&ui-exclude-self-citations=true)) at the _Raja Bazaar Science College_ in Kolkata. 
+
+### Two Higgs doublet model and electroweak PT
+
+I worked under Prof. Shinya Kanemura (personal website [here](http://www-het.phys.sci.osaka-u.ac.jp/~kanemu/index_eng.html)) at Osaka University as an ISP student during the summer of 2024. I mostly looked into aspects of spontaneous symmetry breaking and the Higgs sector, specifically focusing on the baryon asymmetry issue. I investigated the effects of finite temperature on quantum field theories, particularly in the context of the two Higgs doublet model (THDM), and looked at how this leads to the possibility of a phase transition at high temperatures (in the early stages of the universe). Such phase transitions are necessary to satisfy the Sakharov conditions. I also considered two broad approaches to probing the feasibility of such models - namely, the loop corrections to the coupling terms using effective potential techniques that can be observed in collider experiments and the possibility of detecting GWs generated due to bubble collisions during the electroweak phase transition in such theories. A report summarising the main aspects of the project can be found [here](https://drive.google.com/file/d/1-L7yvdlQTgaTtF5vlT9OmbW7JVK9FXqF/view?usp=sharing) (most of the links here redirect to Google Drive).
+
+~~~
+<div class="row">
+  <div class="container">
+    <center><img src="/assets/ISP_cont_Julia.svg" width = "250" height = "250"></center>
+    <p style = "font-size: 15px"><i> A depiction of the deviation in the trilinear Higgs coupling in the THDM compared to the SM. As shown, these deviations can be significant and, therefore, observable in future collider experiments. This allows for testing the validity of various extended Higgs sector models against physical observations.
+</i></p>
+</div>
+~~~
 
 ### Axions, gravitons and photons
 
@@ -52,7 +65,7 @@ Initially, I worked on simple nonlinear systems to look at some interesting aspe
 
 I also worked on forced oscillators around resonance and learnt to use **perturbative techniques** to identify their resonant frequencies, applied certain techniques (like **Krylov Bogolioubov averaging**) to look at their solutions and determined approximate analytical solutions around resonance. 
 
-A report on the more interesting aspects of this work can be found [here](https://drive.google.com/file/d/1p-KbWKduVuJ_uCbAs4RP9Ig1QYUXwiLs/view?usp=sharing) (most of the links here redirect to Google Drive).
+A report on the more interesting aspects of this work can be found [here](https://drive.google.com/file/d/1p-KbWKduVuJ_uCbAs4RP9Ig1QYUXwiLs/view?usp=sharing).
 
 ### Parametric resonances in more complicated systems
 
