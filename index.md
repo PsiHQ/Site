@@ -9,15 +9,18 @@
     <img class="left" src="/assets/Arashiyama.jpg" width = "300" height = "300">
     <span style="vertical-align: middle;">
     <i>I am Shihabul Haque, a 5th year Integrated Bachelor's - Master's student at the Indian Association for the Cultivation of Science, Kolkata. I am a physics major and an aspiring theoretical physicist. </i>
-    </span>     
+    </span>
+<p style = "color:white">
+    HAHAHAHAHAHA <br>
+    </p>
     <p> <i> Here I am - on the left - on the Togetsukyō Bridge, Kyoto, in Japan during the summer of 2024. I spent that summer at Osaka University participating in the International Summer Programme. </i>
     <div style="clear: both"></div> 
   </div>
 </div>
 ~~~
-Welcome to my page - here, you will find snippets about me, my interests, my work and more! Feel free to explore and contact me if needed - feedback is appreciated!
+Welcome to my page - you will find snippets about me, my interests, my work and more! Feel free to explore and contact me if needed - feedback is appreciated!
 
-At present, I am a 5th year student at the Indian Association for the Cultivation of Science, Kolkata (IACS). I am a theoretical physics major and specialise in **particle physics**. 
+At present, I am a 5th year student at the Indian Association for the Cultivation of Science, Kolkata (IACS). I am a theoretical physics major and specialise in **_particle physics_**. 
 
 ~~~
 <div class="row">
@@ -33,7 +36,7 @@ At present, I am a 5th year student at the Indian Association for the Cultivatio
 
 ## Research interests
 
-I aspire to be a theoretical physicist and, as of now, I am mostly into **_theoretical high-energy physics_**, including both phenomenology and more fundamental aspects. I have also had exposure to different fields at IACS - *nonlinear systems*, *weak measurements* and so on. The [research](/menu1/) page elaborates on this further, so please visit it if interested.
+I aspire to be a theoretical physicist and, as of now, I am into **_theoretical particle physics_**, including both phenomenology and more fundamental aspects. I have had exposure to different fields - **_nonlinear systems_**, **_weak measurements_** and so on. The [research](/menu1/) page elaborates on this further, so please check it out if interested.
 
 On a computational side, I have self-learned Julia as a side interest and hobby - it has now become an integral part of my work. Interestingly, I built this webpage with Julia as well! It's super interesting and super fun. 
 
