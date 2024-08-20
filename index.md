@@ -6,21 +6,21 @@
 ~~~
 <div class="row">
   <div class="container">
-    <img class="left" src="/assets/me.jpeg" width = "300" height = "300">
+    <img class="left" src="/assets/Arashiyama.jpg" width = "300" height = "300">
     <p style = "color:white">
     HAHAHAHAHAHA <br>
     </p>
     <span style="vertical-align: middle;">
     <i>I am Shihabul Haque, a 5th year Integrated Bachelor's - Master's student at the Indian Association for the Cultivation of Science, Kolkata. I am a physics major and an aspiring theoretical physicist. </i>
     </span>     
-    <p> <i> Here I am - on the left - on the return flight to Kolkata after an interesting summer 2023 at the Chennai Mathematical Institute, Chennai. </i>
+    <p> <i> Here I am - on the left - on the Togetsukyō Bridge, Kyoto, in Japan during the summer of 2024. I spent that summer at Osaka University participating in the International Summer Programme. </i>
     <div style="clear: both"></div> 
   </div>
 </div>
 ~~~
-Welcome to my page - here, you will find snippets about me, my interests and work and more! Feel free to explore and contact me if needed - feedback is appreciated!
+Welcome to my page - here, you will find snippets about me, my interests, my work and more! Feel free to explore and contact me if needed - feedback is appreciated!
 
-At present, I am a 5th year student at the Indian Association for the Cultivation of Science, Kolkata (IACS). I took physics, maths, chemistry, biology and computer science courses for the first 3 semesters at IACS, following which I chose physics as my major. This has enabled me to look at the world with a more holistic attitude and make connections between different ideas even in unrelated contexts. 
+At present, I am a 5th year student at the Indian Association for the Cultivation of Science, Kolkata (IACS). I am a theoretical physics major and specialise in **particle physics**. 
 
 ~~~
 <div class="row">
@@ -36,9 +36,9 @@ At present, I am a 5th year student at the Indian Association for the Cultivatio
 
 ## Research interests
 
-I aspire to be a theoretical physicist and, as of now, I am mostly into **_theoretical high-energy physics_**, including both phenomenology and more fundamental aspects. I am open to different experiences as well and have had exposure to different fields at IACS - for example, nonlinear systems, weak measurements and so on. The [research](/menu1/) page elaborates on this further, so please visit it if interested.
+I aspire to be a theoretical physicist and, as of now, I am mostly into **_theoretical high-energy physics_**, including both phenomenology and more fundamental aspects. I have also had exposure to different fields at IACS - *nonlinear systems*, *weak measurements* and so on. The [research](/menu1/) page elaborates on this further, so please visit it if interested.
 
-On a computational side, I have self-learned Julia as a side interest and hobby - it has now become an integral part of my work, helping me with numerically solving complicated systems and so on. Interestingly, I built this webpage with Julia as well! It's super interesting and super fun. 
+On a computational side, I have self-learned Julia as a side interest and hobby - it has now become an integral part of my work. Interestingly, I built this webpage with Julia as well! It's super interesting and super fun. 
 
 ~~~
 <div class="row">
@@ -56,7 +56,7 @@ On a computational side, I have self-learned Julia as a side interest and hobby 
 <div class="row">
 <div class="container">
 <img class="right" src="/assets/em.jpeg" width = "250" height = "245">
-<p style="font-size:15px"> <i>When not working on physics, you can find me curled up with books or anime - I am a huge fan of the crime/thriller genres (think Poirot!). But what I love doing is writing - essays, opinion pieces or random pieces of prose. I find writing relaxing and helpful - faux therapeutic. I also enjoy football - soccer - and regularly follow the EPL. </i></p>  <p style="font-size:15px"><i> Right: The green glow in the middle is created by accelerated electrons. This is a setup to measure the e/m ratio of electrons - we performed this experiment in the IACS physics lab. </i></p>
+<p style="font-size:15px"> <i>When not working on physics, you can find me curled up with books or anime - I am a huge fan of the crime/thriller genres (think Poirot!). I also love writing - essays, opinion pieces or random pieces of prose. I find writing relaxing and helpful - faux therapeutic. I also enjoy football and regularly follow the EPL. </i></p>  <p style="font-size:15px"><i> Right: The green glow in the middle is created by accelerated electrons. This is a setup to measure the e/m ratio of electrons - we performed this experiment in the IACS physics lab. </i></p>
 </div>
 ~~~
 
