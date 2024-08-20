@@ -7,5 +7,3 @@ Hit me up in case of any queries or further information. I am always available a
 * **Gmail:** shihabul1312@gmail.com (_My primary mail address_)
 * **Institutional mail:** ug2020sh2371@iacs.res.in (_Also works fine_) 
 
-The [trial](/menu4/) page elaborates on this further, so please check it out if interested.
-
