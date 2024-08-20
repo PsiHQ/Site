@@ -9,7 +9,7 @@ Hit me up in case of any queries or further information. I am always available a
 ~~~
 <div class="row">
   <div class="container">
-    <img class="centre" src="/assets/Kiyomizu.jpg" width = "280" height = "280">
+    <img class="centre" src="/assets/Kiyomizu.jpg" width = "300" height = "300">
     <span style="vertical-align: middle;">
     <i> A shot of the Kiyomizu-dera, Kyoto, Japan. </i>
     </span>     
