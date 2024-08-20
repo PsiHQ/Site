@@ -7,9 +7,6 @@
 <div class="row">
   <div class="container">
     <img class="left" src="/assets/Arashiyama.jpg" width = "300" height = "300">
-    <p style = "color:white">
-    HAHAHAHAHAHA <br>
-    </p>
     <span style="vertical-align: middle;">
     <i>I am Shihabul Haque, a 5th year Integrated Bachelor's - Master's student at the Indian Association for the Cultivation of Science, Kolkata. I am a physics major and an aspiring theoretical physicist. </i>
     </span>     
