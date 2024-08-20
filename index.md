@@ -13,7 +13,7 @@
 <p style = "color:white">
     HAHAHAHAHAHA <br>
     </p>
-    <p> <i> Here I am - on the left - on the Togetsukyō Bridge, Kyoto, in Japan during the summer of 2024. I spent that summer at Osaka University participating in the International Summer Programme. </i>
+    <p> <i> Here I am - on the left - on the Togetsukyō Bridge, Kyoto, in Japan, during the summer of 2024. I spent that summer at Osaka University participating in the International Summer Programme hosted by OU's Graduate School of Science. </i>
     <div style="clear: both"></div> 
   </div>
 </div>
@@ -45,7 +45,7 @@ On a computational side, I have self-learned Julia as a side interest and hobby 
   <div class="container">
     <center><img src="/assets/jkb.jpeg" width = "300" height = "300"></center>
     <p style = "font-size: 13 px">
-    <i> Left: With Prof. Jayanta K. Bhattacharjee (centre) - one of the most impactful people I have met - and my classmate, Nilanjan (on the right)</i>
+    <i> With Prof. Jayanta K. Bhattacharjee (centre) - one of the most impactful people I have met - and my classmate, Nilanjan (on the right)</i>
     </p>     
     <div style="clear: both"></div> 
   </div>
