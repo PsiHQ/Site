@@ -25,7 +25,7 @@ I worked under Prof. Shinya Kanemura (personal website [here](http://www-het.phy
 ~~~
 <div class="row">
   <div class="container">
-    <center><img src="/assets/ISP_cont_Julia.svg" width = "250" height = "250"></center>
+    <center><img src="/assets/ISP_cont_Julia.svg" width = "300" height = "300"></center>
     <p style = "font-size: 15px"><i> A depiction of the deviation in the trilinear Higgs coupling in the THDM compared to the SM. As shown, these deviations can be significant and, therefore, observable in future collider experiments. This allows for testing the validity of various extended Higgs sector models against physical observations.
 </i></p>
 </div>
