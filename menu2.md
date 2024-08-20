@@ -7,7 +7,7 @@
 
 My C.V. is available 
 ~~~
-<a href="/assets/Resume.pdf" download="resume"><i>here.</i></a>
+<a href="/assets/main.pdf" download="CV"><i>here.</i></a>
 ~~~
 ~~~
 <div class="row">
