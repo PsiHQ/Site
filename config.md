@@ -19,6 +19,7 @@ Add here global page variables to use throughout your website.
 
 @def ignore = ["node_modules/", "franklin", "franklin.pub"]
 
+keep_path = ["google38ae4f3003f81085.HTML"]
 <!--
 Add here global latex commands to use throughout your pages.
 -->
