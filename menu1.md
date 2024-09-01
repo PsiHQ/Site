@@ -4,11 +4,11 @@
 
 @def tags = ["syntax", "code"]
 
-# Research interests
+# Research
 
-As someone who likes a fair bit of maths, I am primarily interested in the theoretical side of physics. My research interests and past exposure are diverse - however, I am more inclined towards **_particle physics_** and **_high-energy phenomena_**, the field my BS-MS project is based in. I work on **_axion/photon mixing_** and some related phenomena for my BS-MS project but, aside from that, I also worked a bit on aspects of the **_two Higgs doublet model_** and **_electroweak phase transition_** during my stay at Osaka University.
+As someone who likes a fair bit of maths, I am interested in the theoretical side of physics. I am specifically interested in **_particle physics_** and **_high-energy phenomena_**, the field my BS-MS project is based in. I work on **_axion/photon mixing_** and some related phenomena for my BS-MS project but, aside from that, I also worked a bit on aspects of the **_two Higgs doublet model_** and **_electroweak phase transition_** during my stay at Osaka University.
 
-At the same time, I have played around with other areas as well - **_nonlinear dynamics_**, **_quantum physics_** and **_gravity_**. On this page, you will find a broad description of my interests and exposure. 
+At the same time, I have played around with other areas too - **_nonlinear dynamics_**, **_quantum physics_** and **_gravity_**. On this page, you will find a broad description of my interests and exposure. 
 
 \toc
 
@@ -99,7 +99,3 @@ My curiosity in quantum theory was piqued ever since I read Anil Ananthaswamy's 
 ~~~
 
 I visited the _Chennai Mathematical Institute_ in the summer of 2023 to work on weak measurements in quantum theory under Prof. H. S. Mani. I looked at basic **measurement theory** in quantum physics, the [_Albert-Aharonov-Vaidman_ paper](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.60.1351) and its later interpretations. I focused on the conceptual idea of weak measurements and their relation to interference and calculated weak values for certain observables in simple systems - spin-1 particles, oscillator potentials and so on. A report covering certain aspects of this project is available [here](https://drive.google.com/file/d/1HJdwubqbF81JADzQ5HN3f-iTtnlY1klo/view?usp=sharing).
-
-## Gravitational formalism
-
-One of the very first exposures to research I had was with Prof. Tapobrata Sarkar at _IIT, Kanpur_. I (along with some of my classmates) participated in a brief reading project under him during the latter part of 2021 (online - due to the pandemic) related to general relativity. More importantly, Prof. Sarkar introduced us to some interesting packages on Mathematica built for relativists - I played around with them quite a bit, replicating parts of the results from a paper he discussed with us. I benefitted from the early exposure to gravity formalism - it was part of the reason I chose general relativity as an elective in my 4th year.
