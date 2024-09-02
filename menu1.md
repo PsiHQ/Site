@@ -1,12 +1,21 @@
 @def title = "Research"
 @def hascode = true
 @def date = Date(2024, 3, 7)
-
+@def mintoclevel=1
 @def tags = ["syntax", "code"]
 
 # Research
 
 As someone who likes a fair bit of maths, I am interested in the theoretical side of physics. I am specifically interested in **_particle physics_** and **_high-energy phenomena_**, the field my BS-MS project is based in. I work on **_axion/photon mixing_** and some related phenomena for my BS-MS project but, aside from that, I also worked a bit on aspects of the **_two Higgs doublet model_** and **_electroweak phase transition_** during my stay at Osaka University.
+
+~~~
+<div class="row">
+  <div class="container">
+    <center><img src="/assets/Presentation.jpg" width = "300" height = "300"></center>
+    <p style = "font-size: 15px"><i> Final presentation at the ISP 2024, Osaka University. My presentation was non-technical to accommodate the diverse backgrounds of the audience. 
+</i></p>
+</div>
+~~~
 
 At the same time, I have played around with other areas too - **_nonlinear dynamics_**, **_quantum physics_** and **_gravity_**. On this page, you will find a broad description of my interests and exposure. 
 
