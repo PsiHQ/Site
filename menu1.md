@@ -1,7 +1,7 @@
 @def title = "Research"
 @def hascode = true
 @def date = Date(2024, 3, 7)
-@def mintoclevel=1
+
 @def tags = ["syntax", "code"]
 
 # Research
