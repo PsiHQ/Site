@@ -11,7 +11,7 @@ As someone who likes a fair bit of maths, I am interested in the theoretical sid
 ~~~
 <div class="row">
   <div class="container">
-    <center><img src="/assets/Presentation.jpg" width = "300" height = "300"></center>
+    <center><img src="/assets/Presentation.jpeg" width = "300" height = "300"></center>
     <p style = "font-size: 15px"><i> Final presentation at the ISP 2024, Osaka University. My presentation was non-technical to accommodate the diverse backgrounds of the audience. 
 </i></p>
 </div>
