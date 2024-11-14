@@ -53,7 +53,7 @@ My 2 years BS-MS project, under Prof. Sourov Roy at IACS (personal website [here
 </div>
 ~~~
 
-For my second semester, I looked at a closely related phenomenon - the **mixing of gravitational waves and photons**. Once linearised, the formalism is similar to the axion/photon case. Much of my project focused on similar polarisation changes in light that might result from such an oscillation phenomenon and how it might be applied to real-life observations. At present, I am looking into a certain class of extra-dimensional theories and how they might be related to these phenomena. Moving forward, I plan to look into these effects in more detail and extrapolate the numerical and analytical results to tangible, physical observations.
+For my second semester, I looked at a closely related phenomenon - the **mixing of gravitational waves and photons**. Once linearised, the formalism is similar to the axion/photon case. Much of my project focused on similar polarisation changes in light that might result from such an oscillation phenomenon and how it might be applied to real-life observations. At present, I am looking into a certain class of extra-dimensional theories and how they might be related to these phenomena - this latter part of my work can be accessed in the arXiv preprint [here](https://arxiv.org/abs/2411.08396). 
 
 ## Nonlinear systems, parametric resonances and oscillators (spoiler alert: _lots_ of oscillators!)
 
