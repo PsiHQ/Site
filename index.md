@@ -11,7 +11,7 @@
     <i>I am Shihabul Haque, a 5th year Integrated Bachelor's - Master's student at the Indian Association for the Cultivation of Science, Kolkata. I am a physics major and an aspiring theoretical physicist. </i>
     </span>
 <p style = "color:white">
-    HAHAHAHAHAHA <br>
+    ------------- <br>
     </p>
     <p> <i> Here I am - on the left - on the Togetsukyō Bridge, Kyoto, in Japan, during the summer of 2024. I spent that summer at Osaka University participating in the International Summer Programme hosted by OU's Graduate School of Science. </i>
     <div style="clear: both"></div> 
