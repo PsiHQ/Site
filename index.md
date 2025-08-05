@@ -31,14 +31,14 @@ My research revolves around **theoretical high energy physics** and I am interes
 
 As a fresh undergrad at IACS, I also explored nonlinear dynamics and some aspects of weak measurements. More details can be found on the [research](/menu1/) page.
 
-I am also a big fan of Julia - something I picked up more or less as a hobby though now it is essential part of my work. This website, for instance, was built in Julia using Franklin.jl, thanks to some helpful tutorials I found online!
+I am also a big fan of Julia - something I picked up more or less as a hobby though now it is an essential part of my work. This website, for instance, was built in Julia using Franklin.jl, thanks to some helpful tutorials I found online!
 
 ~~~
 <div class="row">
   <div class="container">
     <center><img src="/assets/jkb.jpeg" width = "300" height = "300"></center>
     <p style = "font-size: 15px">
-    <i> With Prof. Jayanta K. Bhattacharjee (centre) - my undergrad mentor and one of the most impactful persons I know - and my classmate, Nilanjan (on the right)</i>
+    <i> With Prof. Jayanta K. Bhattacharjee (centre) - my undergrad mentor and one of the most impactful persons I know - and my classmate, Nilanjan (on the right).</i>
     </p>     
     <div style="clear: both"></div> 
   </div>
@@ -48,7 +48,7 @@ I am also a big fan of Julia - something I picked up more or less as a hobby tho
 
 I come from Kolkata, India’s City of Joy and cultural capital, where I completed both my schooling and my Integrated BS-MS at IACS, graduating in 2025 with a physics major.
 
-When I'm not doing physics, you’ll find me holed up with a book - I’m a huge fan of the crime/thriller genre (think *Poirot*!). I also enjoy writing - essays, opinion pieces, or the occasional story. Recently, I've been thinking about making science more accessible through lucid writing and clear presentation. I find writing relaxing and helpful - faux therapeutic. I also regularly follow the English Premier League and have been a long-suffering but loyal Chelsea supporter, through the good, the bad, and the outright hilarious.
+When I'm not doing physics, you’ll find me holed up with a book - I’m a huge fan of the crime/thriller genre (think *Poirot*!). I also enjoy writing - essays, opinion pieces, or the occasional story. Recently, I've been thinking about making science more accessible through lucid writing and clear presentation. I find writing relaxing and helpful - faux therapeutic. I also regularly follow the English Premier League and have been a Chelsea supporter, through the good, the bad, and the outright hilarious.
 
 You can visit the [research](/menu1/) page to check out my interests and past experiences or [this](/menu2/) page for a look at my C.V. - you can also contact me using the information provided [here](/menu3/). 
 
