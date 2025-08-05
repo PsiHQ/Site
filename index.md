@@ -8,12 +8,10 @@
   <div class="container">
     <img class="left" src="/assets/Arashiyama.jpg" width = "300" height = "300">
     <span style="vertical-align: middle;">
-<p style = "color:white">
-    ------------- <br>
-    </p>
     Hi, I'm Shihabul Haque, a PhD student in the Theoretical Particle Physics (TPP) group at the International School for Advanced Studies (SISSA) in Trieste, Italy, starting October 2025. I am broadly interested in different areas of high energy physics.
     </span>
 <p style = "color:white">
+    ------------- <br>
     ------------- <br>
     </p>
     <p style = "font-size: 15px"> <i>Left:</i> Togetsukyō Bridge, Kyoto, Japan, 2024. Taken during my participation in Osaka University's International Summer Program.
