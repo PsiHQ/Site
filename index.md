@@ -13,7 +13,7 @@
 <p style = "color:white">
     ------------- <br>
     </p>
-    <p> Left: Togetsukyō Bridge, Kyoto, Japan, 2024 - taken during my participation in Osaka University's International Summer Program.
+    <p> <i>Left:</i> Togetsukyō Bridge, Kyoto, Japan, 2024. Taken during my participation in Osaka University's International Summer Program.
     <div style="clear: both"></div> 
   </div>
 </div>
