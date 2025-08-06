@@ -1,4 +1,4 @@
-@def title = "Shihabul Haque | Homepage"
+@def title = "Homepage | Shihabul Haque"
 @def tags = ["syntax", "code"]
 
 # Welcome to my page!
