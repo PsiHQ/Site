@@ -18,8 +18,8 @@ effects of finite temperature on quantum field theories, particularly in the con
 of a phase transition at high temperatures (in the early stages of the universe). Such phase transitions hold the key to satisfying the Sakharov conditions. I also considered 
 two broad approaches to probing such models:
 
-1. Collider perspective - calculating the loop corrections to the couplings using effective potential techniques that could be observed in collider experiments.
-2. Cosmological perspective - feasibility of detecting GWs generated due to bubble collisions during the electroweak phase transition in such theories. 
+1. **Collider perspective** - calculating the loop corrections to the couplings using effective potential techniques that could be observed in collider experiments.
+2. **Cosmological perspective** - feasibility of detecting GWs generated due to bubble collisions during the electroweak phase transition in such theories. 
 
 A report summarising the main aspects of the project can be found 
 ~~~
@@ -34,3 +34,5 @@ and, therefore, observable in future collider experiments. This allows for testi
 </i></p>
 </div>
 ~~~
+
+[Back](/menu1/)
