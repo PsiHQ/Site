@@ -40,7 +40,7 @@ I am also a big fan of Julia - something I picked up more or less as a hobby tho
   <div class="container">
     <center><img src="/assets/jkb.jpeg" width = "300" height = "300"></center>
     <p style = "font-size: 15px">
-    <i> With Prof. Jayanta K. Bhattacharjee (centre) - my undergrad mentor and one of the most impactful people I know - and my classmate, Nilanjan (on the right).</i>
+    With Prof. Jayanta K. Bhattacharjee (centre) - my undergrad mentor and one of the most impactful people I know - and my classmate, Nilanjan (on the right).
     </p>     
     <div style="clear: both"></div> 
   </div>
