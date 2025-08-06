@@ -10,7 +10,7 @@ experiment.
 ~~~
 <div class="row">
   <div class="container">
-    <center><img src="/assets/pic6.jpg" width = "300" height = "300"></center>
+    <center><img src="/assets/pic6.jpg" width = "200" height = "200"></center>
     <p style = "font-size: 15px">
     <i> Diffraction pattern from an experiment to measure the wavelength of light that we conducted in the IACS physics lab. </i>
     </p>     
@@ -28,6 +28,6 @@ oscillator potentials and so on. A report covering certain aspects of this proje
 I had some exposure to particle physics during my undergrad - I wrote a term paper on the **solar neutrino problem** in my first year (available 
 [here](https://drive.google.com/file/d/1s0cYTZZvwxv6wJApdP2BAUXGybRgws1c/view?usp=sharing)) and got interested in the idea of neutrino oscillations. Later, I spent the summer 
 of 2022 on some related but basic topics - Dirac equation, spinors, neutrino mass models - under Prof. Amitava Raychaudhuri
-([INSPIRE](https://inspirehep.net/authors/992176?ui-citation-summary=true&ui-exclude-self-citations=true)) at the _Raja Bazaar Science College_, Kolkata. 
+([INSPIRE](https://inspirehep.net/authors/992176?ui-citation-summary=true&ui-exclude-self-citations=true)) at the _Raja Bazaar Science College_, Kolkata. Of course, I later dealt with most of these ideas in detail when I was taking my QFT I and II courses, but the early exposure did help with making some of the mathematical tools a bit familiar. 
 
-[Back](/menu1/)
+[← Back](/menu1/)
