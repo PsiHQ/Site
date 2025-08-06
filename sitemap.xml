@@ -68,6 +68,12 @@
     <priority>0.5</priority>
 </url>
 <url>
+    <loc>test/index.html</loc>
+    <lastmod>2025-08-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
     <loc>googlea2bf3f0ab448df3a/</loc>
     <lastmod>2025-08-06</lastmod>
     <changefreq>monthly</changefreq>
