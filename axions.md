@@ -32,7 +32,7 @@ Our work involved a specific kind of **axion-like particles** (ALPs) in such mod
 ~~~
 <div class="row">
   <div class="container">
-    <center><img src="/assets/rsmodel.png" width = "400" height = "400"></center>
+    <center><img src="/assets/rsmodel.png" width = "450" height = "350"></center>
     <p style = "font-size: 15px"><i>  A snapshot of the entire ALP/photon coupling parameter space: the red and black dotted lines are the values predicted assuming the RS solution
 is true in two separate contexts. The shaded regions represent excluded areas.
 </i></p>
