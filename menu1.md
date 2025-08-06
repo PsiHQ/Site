@@ -17,7 +17,7 @@ As someone who likes a fair bit of maths, I am interested in the theoretical sid
 </div>
 ~~~
 
-At the same time, I have played around with other areas too - **_nonlinear dynamics_**, **_quantum physics_** and **_gravity_**. On this page, you will find a broad description of my interests and exposure. See [test](/axions/), [test2](/thdm/).
+At the same time, I have played around with other areas too - **_nonlinear dynamics_**, **_quantum physics_** and **_gravity_**. On this page, you will find a broad description of my interests and exposure. See [test](/axions/), [test2](/thdm/), [test3](/nonlin/).
 
 \toc
 
