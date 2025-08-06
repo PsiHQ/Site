@@ -23,7 +23,7 @@ two broad approaches to probing such models:
 
 A report summarising the main aspects of the project can be found 
 ~~~
-<a href="/assets/SSB_ISP_2024.pdf" download="CV">here.</a>
+<a href="/assets/SSB_ISP_2024.pdf" download="SSB_ISP_2024">here.</a>
 ~~~
 ~~~
 <div class="row">
