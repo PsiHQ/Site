@@ -1,8 +1,8 @@
-@def title = "Axions, Extra Dimensions, and More | Shihabul Haque"
+@def title = "Axions, Extra Dimensions and More | Shihabul Haque"
 @def hascode = true
 @def date = Date(2025, 8, 6)
 
-# Axions, Extra Dimensions, and More
+# Axions, Extra Dimensions and More
 My two years BS-MS project at IACS, supervised by Prof. Sourov Roy (personal website [here](https://www.iacs.res.in/athusers/index.php?navid=0&userid=IACS0070)), was based
 on axions - super-light, weakly interacting particles that are hypothesised to exist but have not yet been detected experimentally. This page describes the three broad themes of my work: axion/photon mixing, ALPs in the RS model and axion echoes. The central theme of all three involved the consequences of the interaction term that couples together these axions with photons, our familiar light. This interaction looks like,
 $$ 
@@ -32,7 +32,7 @@ Our work involved a specific kind of **axion-like particles** (ALPs) in such mod
 ~~~
 <div class="row">
   <div class="container">
-    <center><img src="/assets/rsmodel.png" width = "300" height = "300"></center>
+    <center><img src="/assets/rsmodel.png" width = "400" height = "400"></center>
     <p style = "font-size: 15px"><i>  A snapshot of the entire ALP/photon coupling parameter space: the red and black dotted lines are the values predicted assuming the RS solution
 is true in two separate contexts. The shaded regions represent excluded areas.
 </i></p>
