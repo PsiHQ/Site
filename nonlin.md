@@ -3,8 +3,7 @@
 @def date = Date(2025, 8, 6)
 
 # Nonlinear oscillators and parametric resonances
-At IACS, I worked with Prof. Jayanta K. Bhattacharjee (who you can see on the homepage) on nonlinear systems for around a year before he left for IIT, Kanpur, after which we 
-collaborated online. Broadly, my work with him can be categorised into three separate intervals. 
+At IACS, starting from my second year, I worked with Prof. Jayanta K. Bhattacharjee (who you can see on the homepage) on nonlinear systems for around a year before he left for IIT, Kanpur, after which we collaborated online. Broadly, my work with him can be categorised into three separate intervals. 
 
 ## Nonlinear systems
 Initially, I worked on simple nonlinear systems and looked at some interesting features of their dynamics. As a fresh undergrad, this familiarised me with ideas like 
@@ -13,8 +12,12 @@ Apart from identifying various possibilities and the divergence, I also looked i
 ~~~
 <div class="row">
   <div class="container">
-  <img class = "right" src="/assets/phs.png" width = "250" height = "200">
-  <p style = "font-size: 15px"><i> Cool phase space dynamics for the double well described above. </i></p>
+    <center><img src="/assets/phs.png" width = "300" height = "300"></center>
+    <p style = "font-size: 15px">
+    <i> Cool phase space dynamics for the double well described above. </i>
+    </p>     
+    <div style="clear: both"></div> 
+  </div>
 </div>
 ~~~
 I worked on forced oscillators around resonance and learnt to use **perturbative techniques** to identify their resonant frequencies. I applied certain techniques (like 
@@ -35,8 +38,7 @@ due to personal circumstances). The abstract we submitted can be found [here](ht
 The published chapter after peer-review can be accessed [here](https://link.springer.com/chapter/10.1007/978-3-031-50631-4_12).
 ## Bounded solutions and forced oscillators
 While working on the elastic double pendulum, Prof. Bhattacharjee and I became interested in a different problem - the simple **forced undamped oscillator**. It has a very 
-well-known resonance condition and its behaviour around this point is known (in the linear order). Yet, the linear order solution diverges while the actual equation does not 
-- we looked at the system perturbatively and found, surprisingly, that such finite solutions can be explained, even in undamped cases, by an interesting camaraderie between 
+well-known resonance condition and its behaviour around this point is known (in the linear order). Yet, the linear order solution diverges while the actual equation does not - we looked at the system perturbatively and found, surprisingly, that such finite solutions can be explained, even in undamped cases, by an interesting camaraderie between 
 the amplitudes in various orders leading to a **destructive interference like effect** - just as in the case of light! Furthermore, we found that the amplitude and the time 
 period of the oscillations are drive-dependent and follow some interesting power laws - this only happens in a specific interval of drive magnitude after which the oscillator 
 tends to become more and more messy - a first-order phase transition! This work resulted in a peer-reviewed publication - you can find it 
