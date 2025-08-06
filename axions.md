@@ -48,3 +48,5 @@ Axion echoes can be an interesting and powerful way to search for these elusive 
 Multiple ALPs might sound exotic, but they are quite common in theoretical models, for example, those rooted in string theory. Usually, the coupling strengths and masses of the
 ALP fields depend on the kind of underlying model one considers. In our work, we theoretically tackled the problem of echoes generated in multi-ALP models in a model-ndependent
 fashion. We considered two field configurations: coherent, with the different ALPs oscillating in phase, and incoherent, where they oscillate with random phases. Our results showed that while there was a sharp amplification in the first case, leading to potentially larger signals, the second case showed the exact opposite behaviour - signals weaker than even the single ALP case. Aside from observational ramifications, this also bears on how we actually interpret experimental results in these differing contexts. You can find more details in our arXiv preprint [here](https://arxiv.org/abs/2507.16555). 
+
+[Back](/menu1/)
