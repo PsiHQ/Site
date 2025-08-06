@@ -1,8 +1,8 @@
-@def title = "Two Higgs Doublet Model and the electroweak phase transition | Shihabul Haque"
+@def title = "Two Higgs Doublet Model and the Electroweak Phase Transition | Shihabul Haque"
 @def hascode = true
 @def date = Date(2025, 8, 6)
 
-# Two Higgs Doublet Model and the electroweak phase transition
+# Two Higgs Doublet Model and the Electroweak Phase Transition
 One of the biggest puzzles in modern physics is the **baryon asymmetry problem**: the observation that our universe seems to comprise of unequal amounts of matter and anti-matter.
 This is in direct contrast to the standard model and our current models of the Big Bang which lead to equal amounts of both; yet, the imbalance is undeniable.
 
