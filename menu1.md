@@ -5,7 +5,7 @@
 @def tags = ["syntax", "code"]
 
 # Research
-My primary research interest lies in theoretical physics, particularly high energy physics - particle phenomenology, model-building, quantum field theories and so on. As a student at IACS, I explored two broad areas: nonlinaer dynamics during my undergraduate years and particle phenomenology for my final two years BS-MS project work. 
+My primary research interest lies in theoretical physics, particularly high energy physics - particle phenomenology, model-building, quantum field theories and so on. As a student at IACS, I explored two broad areas: nonlinear dynamics during my undergraduate years and particle phenomenology for my final two years BS-MS project work. 
 ~~~
 <div class="row">
   <div class="container">
