@@ -1,4 +1,4 @@
-@def title = "Contact me"
+@def title = "Contact | Shihabul Haque"
 
 # Contact me
 
