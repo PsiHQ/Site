@@ -1,8 +1,8 @@
-@def title = "Axions, Extra Dimensions and More | Shihabul Haque"
+@def title = "Axions, extra dimensions and more | Shihabul Haque"
 @def hascode = true
 @def date = Date(2025, 8, 6)
 
-# Axions, Extra Dimensions and More
+# Axions, extra dimensions and more
 My two years BS-MS project at IACS, supervised by Prof. Sourov Roy (personal website [here](https://www.iacs.res.in/athusers/index.php?navid=0&userid=IACS0070)), was based
 on axions - super-light, weakly interacting particles that are hypothesised to exist but have not yet been detected experimentally. This page describes the three broad themes of my work: axion/photon mixing, ALPs in the RS model and axion echoes. The central theme of all three involved the consequences of the interaction term that couples together these axions with photons, our familiar light. This interaction looks like,
 $$ 
@@ -16,10 +16,10 @@ My project began with reviewing some of the early literature on "**axion/photon 
 <div class="row">
   <div class="container">
     <center><img src="/assets/axions.png" width = "250" height = "250"></center>
-    <p style = "font-size: 15px"><i> A comparison of how the axion intensity grows (if we start with only photons) in two models - the
+    <p style = "font-size: 15px">A comparison of how the axion intensity grows (if we start with only photons) in two models - the
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S0370269302024486?via%3Dihub">conventional model </a> and the
 <a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.96.043519">helical model </a>. Similar results can be obtained for gravitons too. 
-</i></p>
+</p>
 </div>
 ~~~
 In the following semester, I looked at a closely related idea: **graviton/photon mixing** which describes a similar phenomena, but for gravitons (or, gravitational waves). Once
@@ -33,9 +33,8 @@ Our work involved a specific kind of **axion-like particles** (ALPs) in such mod
 <div class="row">
   <div class="container">
     <center><img src="/assets/rsmodel.png" width = "450" height = "350"></center>
-    <p style = "font-size: 15px"><i>  A snapshot of the entire ALP/photon coupling parameter space: the red and black dotted lines are the values predicted assuming the RS solution
-is true in two separate contexts. The shaded regions represent excluded areas.
-</i></p>
+    <p style = "font-size: 15px">A snapshot of the entire ALP/photon coupling parameter space: the red and black dotted lines are the values predicted assuming the RS solution is true in two separate contexts. The shaded regions represent excluded areas.
+</p>
 </div>
 ~~~
 ## Axion echoes in multi-ALP theories
