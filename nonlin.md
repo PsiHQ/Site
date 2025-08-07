@@ -12,7 +12,7 @@ Apart from identifying various possibilities and the divergence, I also looked i
 ~~~
 <div class="row">
   <div class="container" style="text-align: center;">
-    <img src="/assets/phs.png" width="300" height="300">
+    <img src="/assets/phs.png" width="300" height="300" style="display: block; margin-left: auto; margin-right: auto;">
     <p style="font-size: 15px; margin-top: 10px;">
       Cool phase space dynamics for the double well described above.
     </p>     
