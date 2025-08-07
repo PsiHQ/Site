@@ -11,10 +11,10 @@ _linearization_ and _fixed points_. As an example, I worked on a biquadratic pot
 Apart from identifying various possibilities and the divergence, I also looked into the exact dependence of the divergence, visualising the same.
 ~~~
 <div class="row">
-  <div class="container">
-    <center><img src="/assets/phs.png" width = "300" height = "300"></center>
-    <p style = "font-size: 15px">
-    <i> Cool phase space dynamics for the double well described above. </i>
+  <div class="container" style="text-align: center;">
+    <img src="/assets/phs.png" width="300" height="300">
+    <p style="font-size: 15px; margin-top: 10px;">
+      Cool phase space dynamics for the double well described above.
     </p>     
     <div style="clear: both"></div> 
   </div>
@@ -45,9 +45,13 @@ tends to become more and more messy - a first-order phase transition! This work 
 [here](https://iopscience.iop.org/article/10.1088/1751-8121/ad6412). The arXiv preprint of the same manuscript is available [here](https://arxiv.org/abs/2305.04125).
 ~~~
 <div class="row">
-  <div class="container">
-    <center><img src="/assets/PT37n_img.jpg" width = "300" height = "300"></center>
-    <p style = "font-size: 15px"><i> A comparison of the linear solution (which blows up) and what the original equation describes. </i></p>
+  <div class="container" style="text-align: center;">
+    <img src="/assets/PT37n_img.jpg" width="300" height="300">
+    <p style="font-size: 15px; margin-top: 10px;">
+      A comparison of the linear solution (which blows up) and what the original equation describes.
+    </p>     
+    <div style="clear: both"></div> 
+  </div>
 </div>
 ~~~
 
