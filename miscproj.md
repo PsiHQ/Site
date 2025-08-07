@@ -12,7 +12,7 @@ experiment.
   <div class="container">
     <center><img src="/assets/pic6.jpg" width = "200" height = "200"></center>
     <p style = "font-size: 15px">
-    <i> Diffraction pattern from an experiment to measure the wavelength of light that we conducted in the IACS physics lab. </i>
+    Diffraction pattern from an experiment to measure the wavelength of light that we conducted in the IACS physics lab.
     </p>     
     <div style="clear: both"></div> 
   </div>
