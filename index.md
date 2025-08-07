@@ -27,13 +27,13 @@ I use this website to share a bit about myself, especially my academic journey, 
 
 My research revolves around **theoretical high energy physics** and I am interested in different aspects of this broad and ever-evolving field, including particle phenomenology, quantum field theories and the interface between particle physics and cosmology. Some of the recent questions I've worked on include:
 
-1. **Multi-ALP theories and axion echoes** - theoretically deriving an estimate of the echo signal in theories with multiple axion-like particles (ALPs) in a model-independent way.
-2. **Randall-Sundrum (RS) models and link between the hierarchy problem and ALPs** - based on earlier literature on ALPs originating from a Kalb-Ramond field in warped geometries, I calculated the predicted ALP/photon coupling strength assuming the RS solution to the hierarchy problem and compared it to current experimental bounds.
-3. **Electroweak phase transitions in the early universe** - explored cosmological (gravitational wave) and collider probes of the two Higgs doublet model during my brief visit to Osaka University.
+• **Multi-ALP theories and axion echoes** - theoretically deriving an estimate of the echo signal in theories with multiple axion-like particles (ALPs) in a model-independent way.
+• **Randall-Sundrum (RS) models and link between the hierarchy problem and ALPs** - based on earlier literature on ALPs originating from a Kalb-Ramond field in warped geometries, I calculated the predicted ALP/photon coupling strength assuming the RS solution to the hierarchy problem and compared it to current experimental bounds.
+• **Electroweak phase transitions in the early universe** - explored cosmological (gravitational wave) and collider probes of the two Higgs doublet model during my brief visit to Osaka University.
 
 As a fresh undergrad at IACS, I also explored nonlinear dynamics and some aspects of weak measurements. More details can be found on the [research](/menu1/) page.
 
-I am also a big fan of Julia - something I picked up more or less as a hobby though now it is an essential part of my work. This website, for instance, was built in Julia using Franklin.jl, thanks to some helpful tutorials I found online!
+I am also a big fan of Julia - something I picked up more or less as a hobby, though now it is an essential part of my work. This website, for instance, was built in Julia using Franklin.jl, thanks to some helpful tutorials I found online!
 
 ~~~
 <div class="row">
