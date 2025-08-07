@@ -1,8 +1,8 @@
-@def title = "Two Higgs Doublet Model and the Electroweak Phase Transition | Shihabul Haque"
+@def title = "Two Higgs doublet model and the electroweak phase transition | Shihabul Haque"
 @def hascode = true
 @def date = Date(2025, 8, 6)
 
-# Two Higgs Doublet Model and the Electroweak Phase Transition
+# Two Higgs doublet model and the electroweak phase transition
 One of the biggest puzzles in modern physics is the **baryon asymmetry problem**: the observation that our universe seems to comprise of unequal amounts of matter and anti-matter.
 This is in direct contrast to the standard model and our current models of the Big Bang which lead to equal amounts of both; yet, the imbalance is undeniable.
 
@@ -29,9 +29,8 @@ A report summarising the main aspects of the project can be found
 <div class="row">
   <div class="container">
     <center><img src="/assets/ISP_cont_Julia.svg" width = "300" height = "300"></center>
-    <p style = "font-size: 15px"><i> A depiction of the deviation in the trilinear Higgs coupling in the THDM compared to the SM. As shown, these deviations can be significant 
-and, therefore, observable in future collider experiments. This allows for testing the validity of various extended Higgs sector models against physical observations.
-</i></p>
+    <p style = "font-size: 15px">A depiction of the deviation in the trilinear Higgs coupling in the THDM compared to the SM. As shown, these deviations can be significant and, therefore, observable in future collider experiments. This allows for testing the validity of various extended Higgs sector models against physical observations.
+</p>
 </div>
 ~~~
 
