@@ -1,4 +1,4 @@
-@def title = "C.V."
+@def title = "C.V. | Shihabul Haque"
 @def hascode = true
 @def date = Date(2024, 3, 7)
 
