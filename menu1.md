@@ -16,7 +16,7 @@ My primary research interest lies in theoretical physics, particularly **high en
 ~~~
 Here is a brief overview of the projects I've undertaken over the last few years. You can find further details, including arXivs and reports, on the individual project pages:
 
-• [**Axion-like particles (ALPs) in various contexts**](/axions/) - During the two years of my BS-MS project, my work revolved around specific consequences of the ALP-photon interaction term and its observational signatures, sometimes in simple models of the intergalactic magnetic fields and sometimes in RS models. Please visit [this](/axions/) for more details.
+• [**Axion-like particles (ALPs) in various contexts**](/axions/) - During the two years of my BS-MS project, my work revolved around specific consequences of the ALP-photon interaction term and its observational signatures, sometimes in simple models of the intergalactic magnetic fields and sometimes in RS models. Please visit [this](/axions/) page for more details.
 
 • [**Electroweak phase transitions in the two Higgs doublet model**](/thdm/) - I was selected for the International Summer Program at Osaka University for the summer of 2024 where I explored electroweak phase transitions in the early universe, specifically in the two Higgs doublet model (THDM), with a focus on how finite temperature effects can affect the possibility of baryogenesis. More details, as well as the project report, can be found [here](/thdm/).
 
