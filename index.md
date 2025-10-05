@@ -8,7 +8,7 @@
   <div class="container">
     <img class="left" src="/assets/Arashiyama.jpg" width = "300" height = "300">
     <span style="vertical-align: middle;">
-    Hi, I'm Shihabul Haque, a PhD student in the Theoretical Particle Physics (TPP) group at the International School for Advanced Studies (SISSA) in Trieste, Italy, starting October 2025. I am broadly interested in different areas of high energy physics.
+    Hi, I'm Shihabul Haque, a PhD student in the Theoretical Particle Physics (TPP) group at the International School for Advanced Studies (SISSA) in Trieste, Italy, since October 2025. I am broadly interested in different areas of high energy physics.
     </span>
 <p style = "color:white">
     ------------- <br>
@@ -20,18 +20,18 @@
   </div>
 </div>
 ~~~
-Welcome to my personal page! I recently graduated with an Integrated BS-MS from the Indian Association for the Cultivation of Science (IACS), and am heading to SISSA's Theoretical Particle Physics group for my PhD this fall.
+Welcome to my personal page! I recently graduated with an Integrated BS-MS from the Indian Association for the Cultivation of Science (IACS) with a physics major, and have joined SISSA's Theoretical Particle Physics group for my PhD since October 2025.
 
 I use this website to share a bit about myself, especially my academic journey, research interests and some other stuff that I find interesting. Feel free to look around and please reach out if you want to connect and discuss something - feedback is always appreciated!
 ## Research interests
 
 My research revolves around **theoretical high energy physics** and I am interested in different aspects of this broad and ever-evolving field, including particle phenomenology, quantum field theories and the interface between particle physics and cosmology. Some of the recent questions I've worked on include:
 
-• **Multi-ALP theories and axion echoes** - theoretically deriving an estimate of the echo signal in theories with multiple axion-like particles (ALPs) in a model-independent way.
+• **Multi-ALP theories and axion echoes** - I theoretically derived an estimate of the echo signal in theories with multiple axion-like particles (ALPs) in a model-independent way.
 
 • **Randall-Sundrum (RS) models and link between the hierarchy problem and ALPs** - based on earlier literature on ALPs originating from a Kalb-Ramond field in warped geometries, I calculated the predicted ALP/photon coupling strength assuming the RS solution to the hierarchy problem and compared it to current experimental bounds.
 
-• **Electroweak phase transitions in the early universe** - explored cosmological (gravitational wave) and collider probes of the two Higgs doublet model during my brief visit to Osaka University.
+• **Electroweak phase transitions in the early universe** - I explored cosmological (gravitational wave) and collider probes of the two Higgs doublet model during my brief visit to Osaka University.
 
 As a fresh undergrad at IACS, I also explored nonlinear dynamics and some aspects of weak measurements. More details can be found on the [research](/menu1/) page.
 
