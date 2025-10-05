@@ -36,7 +36,7 @@ The list below includes a couple of term papers I wrote during my very early und
 ~~~
 <a href="/assets/The Double Slit Experiment.pdf" download="The Double Slit Experiment"><b> The Double Slit Experiment in Classical and Quantum Realms</b></a>
 ~~~
-: This was a term paper I wrote as a second year student at IACS after being haunted by Feynman's comments on the double slit experiment holding the central mystery to quantum physics. it offers (in my opinion) a fairly lucid exposition of Young’s experiment and its later quantum interpretations - including some standard quantum mechanics formalism, so it’s not entirely non-technical either (though it might be a bit simplistic and naive).
+: This was a term paper I wrote as a second year student at IACS after being haunted by Feynman's comments on the double slit experiment holding the central mystery to quantum physics. It offers (in my opinion) a fairly lucid exposition of Young’s experiment and its later quantum interpretations - including some standard quantum mechanics formalism, so it’s not entirely non-technical either (though it might be a bit simplistic and naive).
 
 • 
 ~~~
