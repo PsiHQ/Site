@@ -9,7 +9,7 @@ Hit me up in case of any queries or further information. I am always available a
 ~~~
 <div class="row">
   <div class="container">
-    <center><img src="/assets/Trieste_IMG" width = "300" height = "300"></center>
+    <center><img src="/assets/Trieste_IMG.jpeg" width = "300" height = "300"></center>
     <p style = "font-size: 15px">The Adriatic from SISSA's first year office.
 </p>
 </div>
