@@ -4,7 +4,7 @@
 
 # Axions, extra dimensions and more
 My two years BS-MS project at IACS, supervised by Prof. Sourov Roy (personal website [here](https://www.iacs.res.in/athusers/index.php?navid=0&userid=IACS0070)), was based
-on axions - super-light, weakly interacting particles that are hypothesised to exist but have not yet been detected experimentally. This page describes the three broad themes of my work: axion/photon mixing, ALPs in the RS model and axion echoes. The central theme of all three involved the consequences of the interaction term that couples together these axions with photons, our familiar light. This interaction looks like,
+on axions - super-light, weakly interacting particles that are hypothesised to exist but have not yet been detected experimentally. This page describes the three broad aspects of my work: axion/photon mixing, ALPs in the RS model and axion echoes. The central theme of all three involved the consequences of the interaction term that couples together these axions with photons, our familiar light. This interaction looks like,
 $$ 
 \mathcal{L}_{ \text{int} } = - \frac{1}{4} g_{a \gamma \gamma} a F^{\mu \nu} \tilde{F}_{\mu \nu} 
 $$
